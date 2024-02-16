@@ -5,4 +5,4 @@
 * pacman -Syu
 * pacman -S mingw-w64-ucrt-x86_64-nss mingw-w64-ucrt-x86_64-openssl
 * cd path/to/RevokeFirefoxCerts
-* ./Firefox.sh
+* ./firefox.sh
