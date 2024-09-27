@@ -21,9 +21,9 @@ cd path/to/RevokeFirefoxCerts
 
 [【屏蔽 tor 浏览器证书】](https://t.me/s/tg_InternetSecurity/711?q=%23Tor)
 
-为避免 tor浏 览器的一些安全隐患，可以用下面的方法永久屏蔽证书：
+为避免 tor 浏览器的一些安全隐患，可以用下面的方法永久屏蔽证书：
 
-1、打开 tor 浏览器，输入 about:config，点“我了解此风险”；
+1、打开 tor 浏览器，输入 about:config，点“接受风险并继续”；
 
 2、在搜索中输入 security.nocertdb 原来为 true 双击改成 false；
 
