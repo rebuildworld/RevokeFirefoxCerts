@@ -1,6 +1,5 @@
 
 firefox_dir="C:/Users/${USERNAME}/Desktop/Tor Browser"
-#firefox_dir="D:/Tool/Browser/Tor Browser"
 
 profile_dir="${firefox_dir}/Browser/TorBrowser/Data/Browser/profile.default"
 echo $profile_dir

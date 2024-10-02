@@ -19,7 +19,7 @@ cd path/to/RevokeFirefoxCerts
 ```
 ## Tor Browser
 
-[【屏蔽 tor 浏览器证书】](https://t.me/s/tg_InternetSecurity/711?q=%23Tor)
+[【屏蔽 tor 浏览器证书】](https://t.me/s/tg_InternetSecurity/711?q=%23Tor)（谨慎操作！）
 
 为避免 tor 浏览器的一些安全隐患，可以用下面的方法永久屏蔽证书：
 
